@@ -5,3 +5,6 @@ git pull
 git status
 git diff
 git add . all file
+git branch 
+git checkout -b ""  create new branch
+git checkout name  move next branch
