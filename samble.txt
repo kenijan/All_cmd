@@ -2,3 +2,6 @@ git add ./name U
 git commit -m ""
 git push 
 git pull
+git status
+git diff
+git add . all file
