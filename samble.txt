@@ -2,9 +2,9 @@ git add ./name U
 git commit -m ""
 git push                 send
 git pull                 get
-git stat                 check
+git status                 check
 git diff                 update
-git add                  all file
+git add .                 all file
 git branch               check branch
 git checkout -b "fran"   create branch
 git checkout main        move branch
